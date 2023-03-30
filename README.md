@@ -24,4 +24,4 @@
 
 # 📱Version
 
-Current version is 17.1.2
+Current version is 18.1.2
