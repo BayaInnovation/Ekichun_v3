@@ -1,5 +1,1 @@
-include ':app'
-
-dependencies {
-	        implementation 'com.github.BayaInnovation:Ekichun_v3:18.1.2'
-	}
+include ':app' 
