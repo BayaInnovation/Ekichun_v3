@@ -1,7 +1,17 @@
 
 ![slcha](https://user-images.githubusercontent.com/86925273/228262732-efdc9a42-b466-47b3-9e58-25b64c21a0ed.jpg)
 
-
+<p align="center">
+    <img src="https://img.shields.io/github/stars/bayainnovation/Ekichun_v3">
+    <img src="https://img.shields.io/github/forks/bayainnovation/Ekichun_v3"> 
+    <br>
+    <img src="https://img.shields.io/github/languages/top/bayainnovation/Ekichun_v3">
+    <img src="https://img.shields.io/github/last-commit/bayainnovation/Ekichun_v3">
+    <br>
+    <img src="https://img.shields.io/github/issues/bayainnovation/Ekichun_v3">
+    <img src="https://img.shields.io/github/issues-closed/bayainnovation/Ekichun_v3">
+    <br>
+</p>
 # Ekichun 3 / እቅጩን ፫
 `እቅጩን 3 ` is an exciting and educational offline game designed for children between the ages of 5 - 7. The game is specifically created to help children build their reading skills and to introduce them to the rich culture of Ethiopia.With እቅጩን 3, children will be able to learn and practice reading in a fun and engaging way. 
 
