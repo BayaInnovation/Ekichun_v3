@@ -1,6 +1,6 @@
-
-![slcha](https://user-images.githubusercontent.com/86925273/228262732-efdc9a42-b466-47b3-9e58-25b64c21a0ed.jpg)
-
+<img align="center" alt="Behailu Getachew| ANDROID" width="250px" src="https://user-images.githubusercontent.com/86925273/228262732-efdc9a42-b466-47b3-9e58-25b64c21a0ed.jpg" />
+ <br>
+ 
 <p align="center">
     <img src="https://img.shields.io/github/stars/bayainnovation/Ekichun_v3">
     <img src="https://img.shields.io/github/forks/bayainnovation/Ekichun_v3"> 
